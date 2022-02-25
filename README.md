@@ -1,4 +1,4 @@
-## GigVistas - Software Development Engineering in UI Assignment
+## GigVistas - Software Development Engineer in UI Assignment
 
 This coding assignment is aimed towards candidates applying for the position of a Software Development Engineer (I/II) in UI in the platform development team of [GigVistas](https://gigvistas.com)
 
